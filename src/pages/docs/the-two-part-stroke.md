@@ -28,3 +28,13 @@ Uneven power through the stroke.
 ### Solution
 
 Accelerate the blade evenly through the stroke from the catch to the finish.
+
+## cause and solution #3
+
+### Cause
+
+Driving with the legs before the blade is locked. ('Bum shoving').
+
+### Solution
+
+Practise blade-control exercises.

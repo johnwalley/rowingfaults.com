@@ -53,13 +53,13 @@ const navigation = [
     links: [
       {
         title: 'Reaching for more length at the catch',
-        href: '/docs/writing-plugins',
+        href: '/docs/reaching-for-more-length-at-the-catch',
       },
       {
         title: 'Leaning out at the catch',
-        href: '/docs/neuralink-integration',
+        href: '/docs/leaning-out-at-the-catch',
       },
-      { title: 'The bent arm catch', href: '/docs/temporal-paradoxes' },
+      { title: 'The bent arm catch', href: '/docs/the-bent-arm-catch' },
       { title: 'Bum shoving (slide shooting)', href: '/docs/testing' },
       {
         title: 'Inside shoulder hunched up',
