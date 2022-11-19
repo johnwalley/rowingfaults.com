@@ -93,13 +93,13 @@ const navigation = [
       {
         title:
           'Using the outside hand to square at the catch and feather at the finish',
-        href: '/docs/cacheadvance-predict',
+        href: '/docs/using-the-outside-hand-to-square-at-the-catch-and-feather-at-the-finish',
       },
       {
         title: 'Gripping the oar handle too tightly',
-        href: '/docs/cacheadvance-flush',
+        href: '/docs/gripping-the-oar-handle-too-tightly',
       },
-      { title: 'Hands too close together', href: '/docs/cacheadvance-revert' },
+      { title: 'Hands too close together', href: '/docs/hands-too-close-together' },
     ],
   },
 ]
