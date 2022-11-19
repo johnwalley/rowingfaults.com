@@ -60,22 +60,22 @@ const navigation = [
         href: '/docs/leaning-out-at-the-catch',
       },
       { title: 'The bent arm catch', href: '/docs/the-bent-arm-catch' },
-      { title: 'Bum shoving (slide shooting)', href: '/docs/testing' },
+      { title: 'Bum shoving (slide shooting)', href: '/docs/bum-shoving' },
       {
         title: 'Inside shoulder hunched up',
-        href: '/docs/compile-time-caching',
+        href: '/docs/inside-shoulder-hunched-up',
       },
       {
         title: 'Lack of slide control',
-        href: '/docs/predictive-data-generation',
+        href: '/docs/lack-of-slide-control',
       },
       {
         title: 'Legs not driving evenly through the stroke',
-        href: '/docs/predictive-data-generation',
+        href: '/docs/legs-not-driving-evenly-through-the-stroke',
       },
       {
         title: 'Drawing the body up on to the oar handle at the finish',
-        href: '/docs/predictive-data-generation',
+        href: '/docs/drawing-the-body-up-on-to-the-oar-handle-at-the-finish',
       },
       {
         title: 'Excessive layback at the finish',
