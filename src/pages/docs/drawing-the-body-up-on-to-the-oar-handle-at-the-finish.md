@@ -5,7 +5,9 @@ description: At the finish the shoulders and head are held above or in front of 
 
 ## Symptom
 
-At the finish the shoulders and head are held above or in front of the oar handle instead of behind it, and the body has not passed back through the vertical but is held at the vertical or slightly hunched forward.---
+At the finish the shoulders and head are held above or in front of the oar handle instead of behind it, and the body has not passed back through the vertical but is held at the vertical or slightly hunched forward.
+
+---
 
 ## Cause and solution #1
 

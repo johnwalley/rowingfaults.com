@@ -79,11 +79,11 @@ const navigation = [
       },
       {
         title: 'Excessive layback at the finish',
-        href: '/docs/predictive-data-generation',
+        href: '/docs/excessive-layback-at-the-finish',
       },
       {
         title: 'Leaning away from the rigger at the finish',
-        href: '/docs/predictive-data-generation',
+        href: '/docs/leaning-away-from-the-rigger-at-the-finish',
       },
     ],
   },
