@@ -35,6 +35,6 @@ Accelerate the blade evenly through the stroke from the catch to the finish.
 
 Driving with the legs before the blade is locked. ('Bum shoving').
 
-### Solution
+### Solution
 
 Practise blade-control exercises.

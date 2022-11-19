@@ -20,7 +20,7 @@ Concentate on pushing evenly with both legs. There may be a discrepency in the s
 
 ## Cause and solution #2
 
-### Cause
+### Cause
 
 Poor balance.
 

@@ -55,7 +55,7 @@ Make sure the blade is being accelerated to the finish and taken out square. Squ
 
 Inusfficient height of the work.
 
-### Solution
+### Solution
 
 Check the height of the work, and adjust if appropriate.
 

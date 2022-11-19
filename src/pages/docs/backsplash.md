@@ -25,6 +25,6 @@ Increase the speed of connection at the catch by practising frontstops paddling.
 
 Incorrect direction of blade entry.
 
-### Solution
+### Solution
 
 Make sure the blade enters the water travelling towards the stern as well as downwards.

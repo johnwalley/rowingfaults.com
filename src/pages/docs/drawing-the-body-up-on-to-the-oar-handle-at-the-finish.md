@@ -21,7 +21,7 @@ Do not allow the feet to lose their grip on the stretcher during the stroke, esp
 
 ## Cause and solution #2
 
-### Cause
+### Cause
 
 Failure to use the power of the shoulders at the finish.
 
@@ -31,7 +31,7 @@ Ensure that the outside shoulder is being drawn around the rigger parallel to th
 
 ## Cause and solution #3
 
-### Cause
+### Cause
 
 Using the amrs to pull to early during the stroke.
 
